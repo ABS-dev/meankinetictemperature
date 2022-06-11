@@ -9,3 +9,4 @@ Note:  one of the inputs to the function is a vector of time points.  It must be
 
 initial upload: 12 June 2019
 
+License: MIT
